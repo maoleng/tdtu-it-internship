@@ -1,4 +1,4 @@
-# HƯỚNG DẪN NỘP HỒ SƠ MÔN HỌC (HK2/2023-2024)
+# HƯỚNG DẪN NỘP HỒ SƠ MÔN HỌC TẬP SỰ NGHỀ NGHIỆP VÀ KIẾN TẬP CÔNG NGHIỆP (HK2/2023-2024)
 
 ## **Updated Log:**
 - **[1/7/2024]**: Cập nhật hướng dẫn với BM02 (học phần TSNN) do phần mềm TSNN có điều chỉnh chức năng. Với BM04 (phiếu chấm điểm của CBHD), SV có thể nộp DSSV nếu DN chấm điểm cho cả tập thể.
